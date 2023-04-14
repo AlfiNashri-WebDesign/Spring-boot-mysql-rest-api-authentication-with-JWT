@@ -9,5 +9,6 @@ Bikin resfull API
 
 > Login authentication with JWT
 
+Beasiswa 10 hari Total terpilih 120 orang dari ratusan yg ikut
 Tugas ke 2 Spring boot dari academy.alterra.id
 
