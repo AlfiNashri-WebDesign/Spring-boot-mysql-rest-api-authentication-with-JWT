@@ -9,6 +9,7 @@ Bikin resfull API
 
 > Login authentication with JWT
 
-Beasiswa 10 hari Total terpilih 120 orang dari ratusan yg ikut
+Beasiswa 10 hari Total terpilih 120 orang dari ratusan yg ikut, beasiswa senilai 3 juta rupiah
+
 Tugas ke 2 Spring boot dari academy.alterra.id
 
